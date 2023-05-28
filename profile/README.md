@@ -8,8 +8,29 @@
   <summary>Social Medias from Staff</summary>
   
   <br>
+  
+  <details>
+    <summary>vHansi</summary>
+  <br>
   <img src="https://yt3.googleusercontent.com/p1OkJT6YCzER4DUXZk29d_shpofmLDKRm0fftM2EUkXBG6nLLNUO0s6pP4C8YoFwUgI7cQvyRg=s176-c-k-c0x00ffffff-no-rj"><br>
   <a href="https://youtube.com/@vHansi">@vHansi</a> on <b>YouTube</b><hr>
+    
+  </details>
+  
+
+    
+    
+   <details>
+    <summary>EyNoah1171</summary>
+  <br>
+  <img src="https://cdn.discordapp.com/avatars/586231322993754119/c2042ed5396dcd2013de32644203a21f.png?size=256"><br>
+     
+     
+  <a href="https://youtube.com/@EyNoah">@EyNoah</a> on <b>YouTube</b><hr>
+    
+  </details>
+  
+    
   </details>
 
 
